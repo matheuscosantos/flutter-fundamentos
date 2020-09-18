@@ -4,10 +4,7 @@
 Aplicativo em Flutter para cadastrar transferências e exibi-los em lista.
 
 ## Telas
-
-![Tela com listagem de transferências](http://url/to/img.png)
-
-![Tela com cadastro de transferência](http://url/to/img.png)
+<img src="https://raw.githubusercontent.com/matheuscosantos/flutter-fundamentos/master/Imagens/tela2.png" width="200">   <img src="https://raw.githubusercontent.com/matheuscosantos/flutter-fundamentos/master/Imagens/tela1.png" width="200">
 
 ## Material
 Conteúdo aplicado do curso "Fundamentos de Flutter: Crie o seu primeiro App" da Alura.
